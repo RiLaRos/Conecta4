@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conecta 4</string>
+    <string name="title">Conecta 4</string>
+    <string name="action_settings">Settings</string>
+    <string name="contentDescription"></string>
+    <string name="fin_del_juego">Fin del juego</string>
+    <string name="nosepuedecolocarficha">No se puede colocar ficha</string>
+
+</resources>
